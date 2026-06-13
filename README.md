@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-romance-de-novela/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Un romance de novela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-romance-de-novela/) |
+| **Get License** | [Secure Licensing Rights for Un romance de novela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-romance-de-novela/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y la noche pierde la razón
+> Me acerco lento, siento el golpe de la tentación
+> Nena, es un peligro la manera en que te mueves
+> Un romance de novela, mami, si te atreves
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
