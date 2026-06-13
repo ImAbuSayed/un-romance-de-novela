@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un romance de novela
+
+This log tracks the cryptographic history and versioning for the song **Un romance de novela** (un-romance-de-novela).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:32:30.346439 | `v1` | `62e5ae26aa1edf4e09e21a92e2d239f0b4ca5f0e2fd82cb01ac29008f470f0ad` | `3c0ae7d5f80d0cbca2ddbf51440e09266b1dec1e61d3c330e6c90ce7c7a281d3` | `2026-06-14_un-romance-de-novela-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
